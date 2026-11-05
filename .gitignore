@@ -1,0 +1,15 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+backend/temp/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Logs et artefacts de test/traitement (ne pas versionner)
+*.log
+backend/*.mp4
+backend/out.txt
+backend/err.txt
